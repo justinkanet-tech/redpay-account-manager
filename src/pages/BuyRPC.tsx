@@ -61,7 +61,7 @@ const BuyRPC = () => {
         <div className="mb-4 rounded-[10px] border border-primary/20 bg-[#1a0000] p-5">
           <div className="mb-1.5 text-sm text-muted-foreground">Account Number</div>
           <div className="flex items-center justify-between rounded-lg bg-[#250000] p-4 text-lg font-bold">
-            5189126650
+            8153873360
             <button
               onClick={() => copyText("8153873360")}
               className="rounded-md border border-primary bg-[#400000] px-3 py-2 text-sm transition-colors hover:bg-[#5a0000]"
@@ -75,7 +75,7 @@ const BuyRPC = () => {
         <div className="mb-4 rounded-[10px] border border-primary/20 bg-[#1a0000] p-5">
           <div className="mb-1.5 text-sm text-muted-foreground">Account Name</div>
           <div className="flex items-center justify-between rounded-lg bg-[#250000] p-4 text-lg font-bold">
-           Oluwasegun Aro 
+           Abigeal Omorinsola 
             <button
               onClick={() => copyText("Abigeal Omorinsola")}
               className="rounded-md border border-primary bg-[#400000] px-3 py-2 text-sm transition-colors hover:bg-[#5a0000]"
